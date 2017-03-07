@@ -1,3 +1,4 @@
+#pragma once
 struct HashStruct
 {
 	char key[5];
