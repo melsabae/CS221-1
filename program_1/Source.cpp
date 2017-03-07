@@ -29,7 +29,7 @@ int main()
 	cout << "...done"<<endl;
 	cout << "setting and verifying character data..." << endl;
 	//setting character data
-	char1.setName("Rimbard");
+	char1.setName("Archibald");
 	char1.setClass(5);
 	char1.setAlignment(1);
 	char1.setHitPoints(300);
@@ -66,7 +66,7 @@ int main()
 
 	cout << "Creating instance of Character using the parameterized constructor." << endl<<endl;
 
-	//character 2 rimbard
+	//character 2 Archibald
 	Character char2("Silverleaf",1,1,250,12,15,13,15,15,14);
 	
 	//get character2 data
